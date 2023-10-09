@@ -5,9 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Caption
-      - run: echo "Hello World!"
+        run: echo "Hello World!"
       - name: Print Middle
-      - run: echo "Hello Middle World!"
+        run: echo "Hello Middle World!"
       - name: Print Goodbye
-      - run: echo "Goodbye World!"
+        run: echo "Goodbye World!"
     
